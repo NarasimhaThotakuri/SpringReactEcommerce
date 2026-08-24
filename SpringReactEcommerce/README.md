@@ -51,9 +51,9 @@ A basic GitHub Actions workflow (`.github/workflows/ci.yml`) is included that bu
 - Add more endpoints and frontend pages
 
 ## License
-MIT (add LICENSE file if desired)
+This project is licensed under the [MIT License](LICENSE).
 
 ## Screenshot
-Add a screenshot to `screenshots/demo.png` and it will display here:
+Add a screenshot to `screenshots/image.png` and it will display here:
 
-![screenshot](screenshots/demo.png)
+![screenshot](screenshots/image.png)
