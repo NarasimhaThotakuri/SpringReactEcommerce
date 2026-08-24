@@ -23,3 +23,10 @@ docker-compose.override.yml
 # Logs
 *.log
 .DS_Store
+
+# Ignore stray project folders
+JavaScript/
+LoginProject/
+hybris-occdemo/
+SpringReactEcommerce/
+.DS_Store
