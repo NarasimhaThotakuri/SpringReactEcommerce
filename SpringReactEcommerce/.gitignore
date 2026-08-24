@@ -1,0 +1,24 @@
+# Temp
+.DS_Store
+/node_modules
+/dist
+/target
+/.idea
+.vscode
+.env
+
+# Java
+*.class
+
+# Maven
+.mvn/
+
+# Frontend
+frontend/node_modules/
+
+# Docker
+docker-compose.override.yml
+.env.local
+
+# Logs
+*.log
