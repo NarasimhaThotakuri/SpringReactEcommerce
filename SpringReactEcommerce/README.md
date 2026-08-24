@@ -1,5 +1,7 @@
 # SpringReactEcommerce
 
+![CI](https://github.com/NarasimhaThotakuri/SpringReactEcommerce/actions/workflows/ci.yml/badge.svg)
+
 Minimal demo: Spring Boot backend + Vite React frontend (Docker Compose).
 
 ## Tech
@@ -50,3 +52,8 @@ A basic GitHub Actions workflow (`.github/workflows/ci.yml`) is included that bu
 
 ## License
 MIT (add LICENSE file if desired)
+
+## Screenshot
+Add a screenshot to `screenshots/demo.png` and it will display here:
+
+![screenshot](screenshots/demo.png)
